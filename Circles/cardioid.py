@@ -42,3 +42,5 @@ def loop():
         t.color("black")
 
         turtle.update()
+
+loop()
