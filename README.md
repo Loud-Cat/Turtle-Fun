@@ -1,5 +1,5 @@
 # Turtle-Fun
-Fun with the Python module
+Fun with the Python Turtle module
 
 ## 1. Circles
 
