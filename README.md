@@ -10,3 +10,7 @@ a. Basic circle-in-Circle
 b. Basic circle-around-circle
 
 ![Basic Outer Circle](Circles/basic-outer.gif)
+
+b. Circular Cardioid! (Heart)
+
+![Cardioid](Circles/cardioid.gif)
