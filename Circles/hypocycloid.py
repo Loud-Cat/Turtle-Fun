@@ -31,10 +31,11 @@ def loop(rad):
         points.append( t.pos() )
         t.dot(10)
 
-        t.color("red")
         t.penup()
         t.goto(*points[0])
         t.pendown()
+
+        t.color("red")
         for x,y in points:
             t.goto(x,y)
         t.color("black")
